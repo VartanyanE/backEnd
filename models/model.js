@@ -8,5 +8,3 @@ const mainSchema = mongoose.Schema({
 });
 
 const mainModel = mongoose.model("Main", mainSchema);
-
-export default mainModel;
